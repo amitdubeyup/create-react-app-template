@@ -1,78 +1,25 @@
-# react-custom-template
+# React Custom Template
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-## 🚀 Tech Stack
-
+## 📝 Description
 - React
 
-## ✨ Features
+## 🚀 Technology Stack
+- **Primary**: Node.js
 
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/react-custom-template.git
-cd react-custom-template
-
-# Install dependencies
-npm install
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Production mode
-npm start
-
-# Build for production
-npm run build
-
-# Run tests
-npm test
-```
-
-## 📜 Available Scripts
-
-- `npm run start` - react-scripts start
-- `npm run build` - react-scripts build
-- `npm run test` - react-scripts test --env=jsdom
-- `npm run eject` - react-scripts eject
-
-## 📁 Project Structure
-
-```
-react-custom-template/
-├── public/
-├── package.json
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/react-custom-template.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd react-custom-template
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
