@@ -1,8 +1,8 @@
-# create-react-app-template
+# react-custom-template
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-[Edit this project on StackBlitz](https://stackblitz.com/edit/{BLITZ_PROJECT_SLUG})
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ## 🚀 Tech Stack
 
@@ -16,8 +16,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/create-react-app-template.git
-cd create-react-app-template
+git clone https://github.com/amitdubeyup/react-custom-template.git
+cd react-custom-template
 
 # Install dependencies
 npm install
@@ -56,7 +56,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-create-react-app-template/
+react-custom-template/
 ├── public/
 ├── package.json
 ├── .env.example
